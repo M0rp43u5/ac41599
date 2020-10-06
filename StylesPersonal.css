@@ -3,11 +3,13 @@ body
 {
     font-family: "Playfair Display", serif;
     margin: 0px;
+    background-color: black;
 }
 .container
 {
     display: grid;
     grid-template-columns: 1fr;
+    background-color: black;
 }
 /* Nav. Styles */
 .nav-wrapper
